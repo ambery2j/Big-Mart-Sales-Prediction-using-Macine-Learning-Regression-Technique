@@ -1,1 +1,1 @@
-# Big-Mart-Sales-Prediction-using-Macine-Learning-Regression-Technique
+# Bigmart-Sales-Prediction-Analysis
